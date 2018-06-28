@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\ginkgox\documents\visual studio 2017\project\basic\finalvideo\finalvideo\main.cpp(66): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ginkgox\documents\visual studio 2017\project\basic\finalvideo\finalvideo\main.cpp(67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ginkgox\documents\visual studio 2017\project\basic\finalvideo\finalvideo\main.cpp(68): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ginkgox\documents\visual studio 2017\project\basic\finalvideo\finalvideo\main.cpp(79): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+c:\users\ginkgox\documents\visual studio 2017\project\basic\finalvideo\finalvideo\main.cpp(123): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\ginkgox\documents\visual studio 2017\project\basic\finalvideo\finalvideo\main.cpp(124): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\ginkgox\documents\visual studio 2017\project\basic\finalvideo\finalvideo\main.cpp(150): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  FinalVideo.vcxproj -> C:\Users\ginkgoX\Documents\Visual Studio 2017\Project\Basic\FinalVideo\x64\Debug\FinalVideo.exe
